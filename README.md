@@ -1,1 +1,1 @@
-# Hospital
+# Hospital Database Table
